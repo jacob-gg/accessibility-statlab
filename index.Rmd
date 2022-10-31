@@ -79,11 +79,11 @@ $$y = mx + b$$
 
 #### Hyperlinks
 
-Hyperlinks should balance concision and descriptiveness. (All of the following examples use [google.com](google.com) as a filler link.)
+Hyperlinks should balance concision and descriptiveness. (All of the following examples use [google.com](https://google.com) as a filler link.)
 
-- [Click here](google.com) is ambiguous and minimally helpful
-- [Tips for writing accessible content](google.com) is preferable
-- If a hyperlink downloads a file, communicate that: [Coffee brewing guide (PDF, 3 MB)](google.com)
+- [Click here](https://google.com) is ambiguous and minimally helpful
+- [Tips for writing accessible content](https://google.com) is preferable
+- If a hyperlink downloads a file, communicate that: [Coffee brewing guide (PDF, 3 MB)](https://google.com)
 
 #### Remove hash signs in R code output
 
